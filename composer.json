@@ -1,0 +1,16 @@
+{
+    "name": "myusuft/my-package",
+    "description": "Yeni laravel projelerimde kullanacağım bir şablon",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Myusuft\\MyLaravelTemplate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "M. Yusuf TAŞKESENLİGİL"
+        }
+    ],
+    "require": {}
+}
